@@ -1,3 +1,3 @@
+## learning-svelte-notes
 
-## learning-svelte-notes 
-
+Part 2
